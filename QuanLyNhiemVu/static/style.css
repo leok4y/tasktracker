@@ -1,0 +1,28 @@
+/* Dark theme */
+body { background:#212529; color:#f8f9fa; }
+.bg-dark { background:#212529 !important; }
+.bg-secondary { background:#343a40 !important; }
+
+/* Màu trạng thái (table row) */
+.table-success { background:#2b5c3e; }
+.table-danger  { background:#5c2b2b; }
+.table-warning { background:#5c452b; }
+.table-info    { background:#2b4b5c; }
+.table-purple  { background:#4a2b5c; }
+
+/* Badge */
+.badge {
+    font-size: 0.85rem;
+    padding: 0.35em 0.65em;
+    border-radius: 0.5rem;
+}
+.d-inline-flex.gap-1 {
+    gap: 0.35rem;
+}
+
+/* Chi tiết */
+.detail-row { background:#2c3034; font-size:0.93rem; }
+.text-purple { color:#c678dd; }
+
+/* Nút trong bảng */
+.btn-sm { font-size: 0.8rem; }
